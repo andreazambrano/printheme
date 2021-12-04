@@ -616,7 +616,7 @@
 					lng: -74.0059731
 				},
 				map: map,
-				title: 'PRINTRO',
+				title: 'PRINT',
 				animation: google.maps.Animation.DROP,
 				icon: '../assets/images/marker.png'
 			} );
